@@ -1,4 +1,4 @@
-# SQLiteLogin
+# SQLite
 Nama : Daffa Alfin Nurilanbiya
 NIM : E41200705
 Prodi : TIF B
